@@ -1,6 +1,6 @@
 # Inventory Management System - FullStack
 
-A robust, full-stack inventory lifecycle tracker engineered with the PERN stack (PostgreSQL, Express, React, Node.js). This platform streamlines product procurement, supplier relations, and real-time stock movements. The system's core innovation is an AI-powered natural language interface—leveraging the LLaMA 3 (Groq API) which allows users to perform complex data analysis via natural English inputs dynamically translated into optimized SQL using Natural Language Processing.
+A robust full-stack inventory lifecycle tracker engineered with the PERN stack (PostgreSQL, Express, React, Node.js). This platform streamlines product procurement, supplier relations, and real-time stock movements. The system's core innovation is an AI-powered natural language interface leveraging the LLaMA 3 (Groq API) which allows users to perform complex data analysis via natural English inputs dynamically translated into optimized SQL using Natural Language Processing.
 
 ---
 
@@ -30,7 +30,7 @@ A robust, full-stack inventory lifecycle tracker engineered with the PERN stack 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/manjotkxur/InventoryGenie.git
+git clone https://github.com/manjotkxur/InventoryManagementSystem.git
 ```
 
 ### 2. Environment Setup
@@ -57,7 +57,7 @@ npm install
 
 ### 4. Setup Database
 ```bash
-# From the root of the repo (refer attachment)
+# From the root of the repo (refer attachment - schema.sql)
 psql -U postgres -d inventory < schema.sql
 ```
 
