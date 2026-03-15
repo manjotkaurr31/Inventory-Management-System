@@ -1,6 +1,6 @@
 # Inventory Management System - FullStack
 
-Inventory Management System is a full-stack inventory management system tracker built with the **PERN stack** (PostgreSQL, Express, React, Node.js), designed to help users manage products, suppliers, stock movements, and more with ease — including an AI-powered query system (LLaMA 3 Groq LLM API).
+A robust, full-stack inventory lifecycle tracker engineered with the PERN stack (PostgreSQL, Express, React, Node.js). This platform streamlines product procurement, supplier relations, and real-time stock movements. The system's core innovation is an AI-powered natural language interface—leveraging the LLaMA 3 (Groq API) which allows users to perform complex data analysis via natural English inputs dynamically translated into optimized SQL using Natural Language Processing.
 
 ---
 
