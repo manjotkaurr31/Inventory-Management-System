@@ -1,10 +1,10 @@
-# 🧠 Inventory Management System - FullStack
+# Inventory Management System - FullStack
 
-InventoryGenie is a full-stack inventory management system tracker built with the **PERN stack** (PostgreSQL, Express, React, Node.js), designed to help users manage products, suppliers, stock movements, and more with ease — including an AI-powered query system (LLaMA 3 Groq LLM API).
+Inventory Management System is a full-stack inventory management system tracker built with the **PERN stack** (PostgreSQL, Express, React, Node.js), designed to help users manage products, suppliers, stock movements, and more with ease — including an AI-powered query system (LLaMA 3 Groq LLM API).
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Axios, Bootstrap/CSS Modules
 - **Backend:** Node.js, Express
@@ -14,19 +14,19 @@ InventoryGenie is a full-stack inventory management system tracker built with th
 - **AI Integration:** GROQ LLaMA 3 API to auto-generate SQL queries
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 AI-powered query interface
-- 📦 Product, Category & Supplier management
-- 📈 Stock movement tracking (IN / OUT)
-- 📊 Analytics dashboard
-- 🔐 Secure login/signup with JWT
-- 📄 Export reports as PDF
-- 🎨 Custom UI with pink theme
+- AI-powered query interface
+- Product, Category & Supplier management
+- Stock movement tracking (IN / OUT)
+- Analytics dashboard
+- Secure login/signup with JWT
+- Export reports as PDF
+- Custom UI with pink theme
 
 ---
 
-## 🧰 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 ```bash
