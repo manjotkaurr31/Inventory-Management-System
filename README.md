@@ -11,7 +11,7 @@ A robust full-stack inventory lifecycle tracker engineered with the PERN stack (
 - **Database:** PostgreSQL
 - **Auth:** JWT
 - **Testing** Postman
-- **AI Integration:** GROQ LLaMA 3 API to auto-generate SQL queries
+- **AI Integration:** GROQ LLaMA 3 API
 ---
 
 ## Features
@@ -30,7 +30,7 @@ A robust full-stack inventory lifecycle tracker engineered with the PERN stack (
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/manjotkxur/InventoryManagementSystem.git
+git clone https://github.com/manjotkaurr31/InventoryManagementSystem.git
 ```
 
 ### 2. Environment Setup
